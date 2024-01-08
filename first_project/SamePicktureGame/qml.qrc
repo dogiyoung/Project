@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/1.png</file>
+        <file>img/2.png</file>
+        <file>img/3.png</file>
+        <file>img/4.png</file>
+        <file>img/5.png</file>
+        <file>img/6.png</file>
+        <file>img/7.png</file>
+        <file>img/8.png</file>
+        <file>img/9.png</file>
+        <file>img/10.png</file>
+        <file>img/11.png</file>
+        <file>img/12.png</file>
+        <file>img/13.png</file>
+        <file>img/14.png</file>
+        <file>img/15.png</file>
+        <file>img/16.png</file>
+        <file>img/17.png</file>
+        <file>img/18.png</file>
+        <file>img/question.png</file>
+        <file>img/repeat.png</file>
+        <file>img/shuffle.png</file>
+        <file>music/backmusic.wav</file>
+        <file>music/correct.wav</file>
+        <file>music/incorrect.wav</file>
+    </qresource>
+</RCC>

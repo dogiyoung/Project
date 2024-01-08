@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\LottoProject\LottoProject\bin\Debug\LottoProject.exe.config
+C:\Users\user\source\repos\LottoProject\LottoProject\bin\Debug\LottoProject.exe
+C:\Users\user\source\repos\LottoProject\LottoProject\bin\Debug\LottoProject.pdb
+C:\Users\user\source\repos\LottoProject\LottoProject\obj\Debug\LottoProject.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LottoProject\LottoProject\obj\Debug\LottoProject.Properties.Resources.resources
+C:\Users\user\source\repos\LottoProject\LottoProject\obj\Debug\LottoProject.csproj.GenerateResource.cache
+C:\Users\user\source\repos\LottoProject\LottoProject\obj\Debug\LottoProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LottoProject\LottoProject\obj\Debug\LottoProject.exe
+C:\Users\user\source\repos\LottoProject\LottoProject\obj\Debug\LottoProject.pdb
+C:\Users\user\source\repos\LottoProject\LottoProject\obj\Debug\LottoProject.Form2.resources
+C:\Users\user\source\repos\LottoProject\LottoProject\obj\Debug\LottoProject.Form1.resources
